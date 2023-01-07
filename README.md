@@ -3,6 +3,18 @@ beloshapkabs microservices repository
 
 ---
 
+#### Лекция №19
+1. Разобрались с работой сети.
+2. Собрали и запустили образ приложения с помощью docker-compose
+3. Параметризовали некоторые переменные для docker-compose
+4. Имя проекта можно задать с помощью ключа -p project_name
+5. Создали файл docker-compose.override.yml
+6. Запустили:
+```
+docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
+```
+
+---
 #### Лекция №18
 1. Научились описывать и собирать Docker-образы для сервисного приложения.
 2. Научились оптимизировать работу с Docker-образами.
