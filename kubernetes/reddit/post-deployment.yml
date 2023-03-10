@@ -21,4 +21,4 @@ spec:
     spec:
       containers:
         - image: beloshapkabs/post
-          name: post
+          name: POST_DATABASE_HOST
