@@ -2,12 +2,6 @@
 beloshapkabs microservices repository
 
 ---
-#### Лекция №30
-1. Развернули локальное окружение для работы с Kubernetes
-2. Развернули Kubernetes в Yandex Cloud
-3. Запустили reddit в Kubernetes
-
----
 #### Лекция №28
 1. Подготовили окружение
 2. Подготовили инсталляцию Gitlab CI
