@@ -2,6 +2,18 @@
 beloshapkabs microservices repository
 
 ---
+#### Лекция №31
+1. Ingress Controller
+2. Ingress
+3. Secret
+4. TLS
+5. LoadBalancer Service
+6. Network Policies
+7. PersistentVolumes
+8. PersistentVolumeClaims
+
+
+---
 #### Лекция №30
 1. Развернули локальное окружение для работы с Kubernetes
 2. Развернули Kubernetes в Yandex Cloud
