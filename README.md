@@ -2,6 +2,12 @@
 beloshapkabs microservices repository
 
 ---
+#### Лекция №32
+1. Работа с Helm
+2. Развертывание Gitlab в Kubernetes
+3. Запуск CI/CD конвейера в Kubernetes
+
+---
 #### Лекция №31
 1. Ingress Controller
 2. Ingress
